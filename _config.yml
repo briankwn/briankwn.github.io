@@ -1,14 +1,14 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Brian Kwon
+bio: Robotics Engineer
 
-description: Eve Adam's Personal Website
+description: Brian Kwon's Portfolio
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://briankwn.github.io
 
 # do you want to display social media links? true or false
 social-media: true
