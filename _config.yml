@@ -1,6 +1,6 @@
 # Your name and what you do
 name: Brian Kwon
-bio: Robotics Engineer
+bio: Hacking the Cyber-Physical world one project at a time
 
 description: Brian Kwon's Portfolio
 
@@ -45,13 +45,15 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
     - Python
-    - MySQL - MongoDB    
+    - C++
+    - PCB Design
+    - Packet Analysis
+    - Unix
+    - VHDL
+    - Python
+    - Rapid Prototyping
+    - CAD
     - Git    
 
 # do you want to display a projects section? true or false
