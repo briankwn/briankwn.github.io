@@ -64,8 +64,8 @@ project-list:
     Remote Controlled Modular Tentacle:
         name: Remote Controlled Modular Tentacle
         description: A quick riff on Joshua Vasquez's WETA style cable actuated tentacle using servo motors and potentometers instead of direct mechanical control. I opted for a simpler 2dof per tentacle with thee idea to couple them in a modular fashion, but the servos I had on hand were too weak.
-        video: assets/videos/tentacle.mov
-        url: https://hackaday.io/project/168445-remote-control-cable-actuated-tentacle
+        video: assets/videos/tentacle.mp4
+        #url: https://hackaday.io/project/168445-remote-control-cable-actuated-tentacle
     World-Cup-History:
         name: World Cup  History
         description: npm package for FIFA World cup historical data
