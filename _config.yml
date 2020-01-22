@@ -55,17 +55,17 @@ skills-list:
     - Rapid Prototyping
     - CAD
     - Git
-    - Image Processing(Open CV)    
+    - Computer Vision and Computational Photography (Open CV)    
 
 # do you want to display a projects section? true or false
 projects: true
 
 # add your projects here
 project-list:
-    Eve:
-        name: Eve
+    Remote Controlled Modular Tentacle:
+        name: Remote Controlled Modular Tentacle
         description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
+        url: https://hackaday.io/project/168445-remote-control-cable-actuated-tentacle
     World-Cup-History:
         name: World Cup  History
         description: npm package for FIFA World cup historical data
