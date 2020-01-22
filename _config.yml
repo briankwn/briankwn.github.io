@@ -73,11 +73,7 @@ project-list:
         #url: https://hackaday.io/project/168445-remote-control-cable-actuated-tentacle
     League of Legends Style Battle Bot:
         name: League of Legends Style Battle Bot
-        description: This bot was created for a 4v4 multi lane robot battle. The whisker switch allowed the car to take damage, while the arm allowed for attacking other robot's switches. Control was achieved through a rapid prototyped RC style controller, with a wii nunchuk attached via i2c. The bot talked to the controller via two esp32s connected over wifi(STA to AP).
-
-The first minute of the competition was autonomous. Localization was provided via two IR photodiodes on the top of the car designed to read data from a HTC Vive lighthouse unit mounted above the arena.
-
-PCB design was completed, but wound up not being used as the boards showed up a matter of hours before the competition itself.
+        description: This bot was created for a 4v4 multi lane robot battle. The whisker switch allowed the car to take damage, while the arm allowed for attacking other robot's switches. Control was achieved through a rapid prototyped RC style controller, with a wii nunchuk attached via i2c. The bot talked to the controller via two esp32s connected over wifi(STA to AP). The first minute of the competition was autonomous. Localization was provided via two IR photodiodes on the top of the car designed to read data from a HTC Vive lighthouse unit mounted above the arena. PCB design was completed, but wound up not being used as the boards showed up a matter of hours before the competition itself.
         url: https://hackaday.io/project/169527-league-of-legends-style-fighting-robot
     Affine Face Morphing:
         name: Affine Face Morphing
