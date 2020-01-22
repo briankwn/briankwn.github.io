@@ -51,7 +51,6 @@ skills-list:
     - Packet Analysis
     - Unix
     - VHDL
-    - Python
     - Rapid Prototyping
     - CAD
     - Git
@@ -64,7 +63,8 @@ projects: true
 project-list:
     Remote Controlled Modular Tentacle:
         name: Remote Controlled Modular Tentacle
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
+        description: A quick riff on Joshua Vasquez's WETA style cable actuated tentacle using servo motors and potentometers instead of direct mechanical control. I opted for a simpler 2dof per tentacle with thee idea to couple them in a modular fashion, but the servos I had on hand were too weak.
+        video: assets/videos/tentacle.mov
         url: https://hackaday.io/project/168445-remote-control-cable-actuated-tentacle
     World-Cup-History:
         name: World Cup  History
