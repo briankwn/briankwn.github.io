@@ -5,7 +5,7 @@ bio: Robotics Engineer
 description: Brian Kwon's Portfolio
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: assets/images/Headshot.jpeg
 
 # your url: http://USERNAME.github.io
 url: https://briankwn.github.io
@@ -15,14 +15,14 @@ social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#twitter: mytwitter
+linkedin: https://www.linkedin.com/in/brian-kwon-119ab960/
+github: https://github.com/briankwn/
+email: briankwn@seas.upenn.edu
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# youtube: myyoutube
+youtube: https://www.youtube.com/channel/UCgdNH1XLnxvbxG6it-hjEYQ
 # spotify: myspotify
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
