@@ -79,10 +79,15 @@ The first minute of the competition was autonomous. Localization was provided vi
 
 PCB design was completed, but wound up not being used as the boards showed up a matter of hours before the competition itself.
         url: https://hackaday.io/project/169527-league-of-legends-style-fighting-robot
-    Transcend:
-        name: Transcend
+    Affine Face Morphing:
+        name: Affine Face Morphing
         description: An android app for meditation and mindfulness
         url: https://github.com/Khosbayar/Transcend
+    Image stitching:
+        name: Affine Face Morphing
+        description: An android app for meditation and mindfulness
+        url: https://github.com/Khosbayar/Transcend
+
 
 
 # do you want to display the theme attribution? true or false
