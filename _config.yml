@@ -63,7 +63,7 @@ projects: true
 project-list:
     Smart Pill Dispenser:
         name: Smart Pill Dispenser
-        description: A smart pill dispenser with 
+        description: Smart Dose is an internet enabled pillbox to dispense medicine on a schedule without pre-sorting. The project included a full PCBA design in Altium with a SAMW25, a custom bootloader, over the air firmware updates (OTAFU), and MQTT/NodeRed enabled application via Atmel Studio. A mechanical prototype was developed in Solidworks and built using laser cut acrylic and 3D printed PLA.
         video: assets/videos/ESE516.mp4
         url: https://hackaday.io/project/167976-smartdose
     Remote Controlled Modular Tentacle:
@@ -76,14 +76,15 @@ project-list:
         description: This bot was created for a 4v4 multi lane robot battle. The whisker switch allowed the car to take damage, while the arm allowed for attacking other robot's switches. Control was achieved through a rapid prototyped RC style controller, with a wii nunchuk attached via i2c. The bot talked to the controller via two esp32s connected over wifi(STA to AP). The first minute of the competition was autonomous. Localization was provided via two IR photodiodes on the top of the car designed to read data from a HTC Vive lighthouse unit mounted above the arena. PCB design was completed, but wound up not being used as the boards showed up a matter of hours before the competition itself.
         url: https://hackaday.io/project/169527-league-of-legends-style-fighting-robot
         video: assets/videos/LolBot.mp4
+    Image stitching:
+        name: Panoramic Image stitching, homography, and optical flow
+        description: Created from scratch modules to find features in images, estimate homography, perform RANSAC, match features across images and blend frames to produce smooth stitched images and videos. Additionally, implemented a KLT optical flow tracking algorithm to track objects in a video.
+        #url: https://hackaday.io/project/167976-smartdose
+        video: assets/videos/CIS581.mp4
     Affine Face Morphing:
         name: Affine Face Morphing
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
-    Image stitching:
-        name: Affine Face Morphing
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
+        description: Coming soon...
+        url: https://hackaday.io/project/167976-smartdose
 
 
 
