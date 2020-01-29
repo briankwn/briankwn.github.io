@@ -83,8 +83,9 @@ project-list:
         video: assets/videos/CIS581.mp4
     Affine Face Morphing:
         name: Affine Face Morphing
-        description: Coming soon...
-        url: https://hackaday.io/project/167976-smartdose
+        description: Wrote an algorithm from scratch to convert selected critical facial features to bary-centric coordinates, compute triangulation, and use affine transformations to morph one face onto another and blend them together via cross dissolving.
+        #url: https://hackaday.io/project/167976-smartdose
+        video: assets/videos/AffineFaceWarp.mp4
 
 
 
